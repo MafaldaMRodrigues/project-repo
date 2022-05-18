@@ -1,2 +1,2 @@
-# project-repo
-Final project repo GitHub 101
+# GitHub 101 : Final Project
+This is the final project of Git & GitHub 101
